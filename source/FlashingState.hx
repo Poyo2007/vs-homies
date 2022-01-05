@@ -24,11 +24,12 @@ class FlashingState extends MusicBeatState
 		add(bg);
 
 		warnText = new FlxText(0, 0, FlxG.width,
-			"Hey, watch out!\n
-			This Mod contains some flashing lights!\n
-			Press ENTER to disable them now or go to Options Menu.\n
-			Press ESCAPE to ignore this message.\n
-			You've been warned!",
+			"Hey there!\n
+			this is the final version of VS Jamey before we move\n
+			to VS The Homies! It'll be where Week 2 is\n
+			Press ESCAPE/RETURN to enter the game.\n
+		  P.S. Pressing Return will disable flashing lights\n
+			Enjoy!",
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);

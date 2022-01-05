@@ -46,7 +46,7 @@ class StageData {
 				case 'thorns':
 					stage = 'schoolEvil';
 				case 'fixel' | 'genesismk2' | 'overbearing':
-				  stage = 'jameyweek1':
+				  stage = 'jameyweek1';
 				default:
 					stage = 'stage';
 			}
