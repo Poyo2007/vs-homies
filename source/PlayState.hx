@@ -427,7 +427,6 @@ class PlayState extends MusicBeatState
 				stageCurtains.setGraphicSize(Std.int(stageCurtains.width * 0.9));
 				stageCurtains.updateHitbox();
 				add(stageCurtains);
-				}
 
 			case 'spooky': //Week 2
 				if(!ClientPrefs.lowQuality) {

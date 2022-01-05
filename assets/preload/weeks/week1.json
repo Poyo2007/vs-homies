@@ -1,18 +1,18 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		["Fixel", "bf", [146, 113, 253]],
+		["GenesisMK2", "bf", [146, 113, 253]],
+		["Overbearing", "bf", [146, 113, 253]]
 	],
 
 	"weekCharacters": [
-		"dad",
+		"bf",
 		"bf",
 		"gf"
 	],
 	"weekBackground": "stage",
 
-	"storyName": "Daddy Dearest",
+	"storyName": "Jamey's Place, i think",
 	"weekBefore": "tutorial",
 	"weekName": "Week 1",
 	"startUnlocked": true,
